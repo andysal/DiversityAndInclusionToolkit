@@ -68,17 +68,17 @@ I Musulmani non bevono alcoolici.
  
 ### Halal
  
-Muslims believe that their prayers will be rejected by Allah if they have consumed foods that are haram. The fundamental idea is that they are directed to eat the most nutritionally important foods, so that they are healthier and better physically able to share wisdom and knowledge. 
+I Musulmeni credono che le loro preghiere saranno rifiutate da Allah ove avessero consumato cibi proibiti (haram). Fondamentalmente, l'idea è che essi debbano consumare i cibi più importanti dal punto di vista nutrizionale, in modo che siano in salute e fisicamente più capaci di condividere saggezza e conoscenza. 
 
-In the Qur'an (2:173, 5:3, 5:90-91, 6:145, 16:115), the following foods and drinks are strictly prohibited by God (haram):
+Nel Corano (2:173, 5:3, 5:90-91, 6:145, 16:115), i cibi seguenti sono assolutamente probiti (haram):
 
-* Dead meat (i.e. the carcass of an already-dead animal that was not slaughtered according to Halal rules).
-* Blood.
-* Pork.
-* Horsemeat is controversial (Mashbooh) so Tesco’s inclusion of horsemeat in beef lasagne was upsetting for many Muslims.
-* Alcohol. For observant Muslims, this even includes sauces or food-preparation liquids that might include alcohol, such as soy sauce. 
-* The meat of an animal that has been sacrificed to idols.
-* The meat of an animal that died from electrocution, strangulation or blunt force.
+* Carne morta (ad esempio, la carcassa di un animale che non sia stato macellato secondo i dettami Halal).
+* Sangue.
+* Maiale.
+* La carne di cavallo è controversa.
+* Alcool. Per i Musulmani osservanti, ciò include anche le salse o preparati liquidi che potrebbero includere alcool quali, ad esempio, la salsa di soia. 
+* La carne di un animale che sia stato sacrificato a divinità.
+* La carne di un animale morto per elettrocuzione, strangolamento o percosse.
 * Meat from which wild animals have already eaten.
 * Cheese or whey with rennet is controversial since the Zabihah status of the animal is unknown. Cheeses coagulated with acid (cottage, farmer's, etc.) are generally permitted since they do not include rennet. Vegetarian (non-rennet) cheese is fine since they are coagulated using vegetable enzymes.
  
