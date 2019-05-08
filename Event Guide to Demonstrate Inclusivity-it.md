@@ -79,7 +79,7 @@ Nel Corano (2:173, 5:3, 5:90-91, 6:145, 16:115), i cibi seguenti sono assolutame
 * Alcool. Per i Musulmani osservanti, ciò include anche le salse o preparati liquidi che potrebbero includere alcool quali, ad esempio, la salsa di soia. 
 * La carne di un animale che sia stato sacrificato a divinità.
 * La carne di un animale morto per elettrocuzione, strangolamento o percosse.
-* Meat from which wild animals have already eaten.
+* Carne già parzialmente consumata da animali selvatici.
 * I formaggi o il siero di latte con caglio sono controversi giacchè lo stato Zabihah dell'animale è sconosciuto. I formaggi coagulati con acido sono generalmente permessi poichè non contengono caglio. Il formaggio vegetariano è permesso giacchè è coagulato usando enzimi vegetali.
  
 ### Hindu / Vegetariani
