@@ -80,7 +80,7 @@ Nel Corano (2:173, 5:3, 5:90-91, 6:145, 16:115), i cibi seguenti sono assolutame
 * La carne di un animale che sia stato sacrificato a divinità.
 * La carne di un animale morto per elettrocuzione, strangolamento o percosse.
 * Meat from which wild animals have already eaten.
-* Cheese or whey with rennet is controversial since the Zabihah status of the animal is unknown. Cheeses coagulated with acid (cottage, farmer's, etc.) are generally permitted since they do not include rennet. Vegetarian (non-rennet) cheese is fine since they are coagulated using vegetable enzymes.
+* I formaggi o il siero di latte con caglio sono controversi giacchè lo stato Zabihah dell'animale è sconosciuto. I formaggi coagulati con acido sono generalmente permessi poichè non contengono caglio. Il formaggio vegetariano è permesso giacchè è coagulato usando enzimi vegetali.
  
-### Hindu / Vegetarian
-It is best to keep the vegetarian food on a separate table from meat-based food, or this could cause potential upset to Hindu individuals. The vegetarian food could be perceived as contaminated.
+### Hindu / Vegetariani
+E' preferibile mantenere il cibo vegetariano in un tavolo apposito poichè ciò potrebbe causare l'indignazione di individui Hindu e/o potrebbe essere percepito come contaminato.
