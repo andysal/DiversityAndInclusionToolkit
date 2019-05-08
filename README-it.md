@@ -6,4 +6,4 @@ Il Diversity And Inclusion Tech Community Toolkit includerà un template riusabi
 
 Il Diversity And Inclusion Tech Community Toolkit non è collegato ad alcun vendor.
 
-Contact: Jen.Stirrup@datarelish.com (per la traduzione italiana: andrea.saltarello@ugidotnet.org)
+Contatto: Jen.Stirrup@datarelish.com (per la traduzione italiana: andrea.saltarello@ugidotnet.org)
