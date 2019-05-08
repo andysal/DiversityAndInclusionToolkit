@@ -1,54 +1,54 @@
-# Event Guide to Demonstrate Inclusivity
+# Guida alla dimostrazione di inclusività in occasione di eventi
 
  
-## Summary
+## Sommario
 
-Dates - Selection of event dates should consider religious holidays e.g. Christmas Day, Eid. There are two sides to this issue: it will impact people’s ability to attend, and it could mean a lower turnout.
+Date - La scelta delle date di un evento dovrebbe tenere in considerazione festività di natura religiosa quali, ad esempio, il Natale o Id al-fitr. Ci sono due motivazioni per farlo: influenzerà la possibilità delle persone di partecipare e potrebbe abbassare il numero di presenti.
 
-Days -  Fridays and Saturday events can be exclusive to people who do not follow Shabbath / Sabbath. 
+Giorni -  Gli eventi organizzati al venerdi o sabato potrebbero escludere persone praticanti lo Shabbath. 
 
-Times - Additionally, Friday afternoon prayers may impact Muslims who will need to decide whether to attend prayer, or the event. 
+Orario - Inoltre, la preghiera del pomeriggio potrebbe contringere persone di credo Musulmano a scegliere in modo mutualmente esclusivo tra la stessa e la partecipazione all'evento. 
  
-## Greeting People
-A smile and graciousness always works  
+## Salutare le persong
+Un sorriso e la cortesia sono sempre efficaci  
  
 ### Islam
-This is an issue of debate. The Koran states that men and women, who are not closely related to one another, should not physically touch. This means that many Muslims will not shake hands with a member of the opposite sex. An acceptable greeting is to hold a light fist over the heart, with a slight bow.
+Trattasi di un tema di dibattito. Il Corano afferma che gli uomini e le donne che non siano in qualche modo collegati non dovrebbero toccarsi: ciò significa che molti Musulmani non stringeranno la mano a persone del sesso opposto. Un saluto accettabile consiste nell'appoggiare il pugno sul proprio petto contemporaneamente ad un leggero inchino.
  
-### Japanese
+### Giapponesi
 Meishi koukan
-Touching is inappropriate (back slapping etc) but a handshake is acceptable. A slight bow is regarded as very respectful.
+Tossarci fisicamente è inappropriato, ma la stretta di mano è accettabile. Un leggero inchino è considerato molto rispettoso.
  
  
  
-## Transgender Needs
-Place to get changed before and after the event
+## Necessità Transgender
+Necessità di un luogo per cambiare gli abiti prima e dopo l'evento
  
  
  
-## Religion
+## Religione
  
-### All
-There will be particular dates that are specific and important to each religion. The Shap Calendar identifies the dates and purpose of each religious festival https://www.interfaith.org.uk/resources/religious-festivals
+### Tutte
+Ogni religione prevede delle date considerate importanti: il calendario Shap identifica le suddette date ed il loro scopo. https://www.interfaith.org.uk/resources/religious-festivals
  
 ### Islam
-Acknowledgement of Salawat prayer times.  Often, event breaks can be co-ordinated around the prayers times.
+Riconoscimento dell'orario di preghiera Salawat. Le pause di un evento potrebbero essere organizzate in funzione di esso.
  
-### Catholic
-The Angelus can be recited at 6am, noon and 6pm. If an event is held near one of  the  ancient Universities or Churches, the Angelus bells may ring out. This particular devotion is uncommon and the devotee can perform this prayer in private.
+### Cattolicesimo
+L'Angelus può essere recitato alle 6 del mattino, a mezzogiorno ed alle 18. Se un evento si svolge vicino ad una chiesa, una campana potrebbe suonare. Questo rito non è particolarmente diffuso ed un suo devoto potrebbe effettuarlo in privato.
  
-### Zoroastrian
-This is also known as Parsi faith. The Zoroastrians also pray five times a day. The prayer timings are less clear and more flexible. Zoroastrians tend to assimilate very well into their communities and they will be harder to identify. The Zoroastrians number less than 200,000 throughout the world and their numbers dwindle at 10% per decade. 
+### Zoroastrismo
+E' altresi conosciuta come fede Parsi. Gli Zoroastristi pregano 5 volte al giorno. Le tempistiche della preghiera non sono precisamente definiti ed appaiono flessibili. Gli Zoroastristi tendono ad integrarsi positivamente nelle rispettive comunità e saranno quindi difficilmente distinguibili. Il numero di Zoroastristi al mondo è inferiore alle 200.000 unità ed il numero diminuisce mediamente del 10% su base decennale. 
  
-### Sabbath or Shabbat
-Observant Jews and some Christians. such as Seventh Day Adventists, will observe Sabbath. The timing starts before sunset on Friday until the appearance of three stars on Saturday evening.
+### Shabbat
+Gli Ebrei osservanti, nonchè alcuni Cristiani quali gli Avventisti del Settimo Giorno, osservano lo Shabbath. L'orario inizia prima del tramonto del venerdi e sussiste fino alla apparizione di tre stelle alla sera del sabato.
  
-## Food
+## Cibo
  
-### Kosher Foods
-Islamic dietary laws and Jewish dietary laws are both very detailed and demonstrate some similarities. They share a common root. They are based on a code of laws found in Leviticus and repeated in the Quran. 
+### Cibo Kosher
+I dettami della dieta islamica ed ebrea sono molto dettagliati e denotano alcune similitudini, condividendo una radice comune essendo basati su un insieme di leggi presente nel Levitico e ripetuto nel Corano. 
 
-Therefore, many food products hold both Kosher and Halal accreditation for their products. 
+Conseguentemente, molti cibi detengono sia la certificazione Kosher che quella Halal. 
  
 Kosher standards are not regarded as a replacement for Halal and the foods should be marked with both labels. Muslim authorities believe the terms are not interchangeable and this is potentially insulting.
  
@@ -58,13 +58,13 @@ Salads without dairy or meat can regarded as parve or pareve. Parve means that n
  
 Fish that have fins and scales such as salmon, trout, herring and halibut are also kosher and parve: however, fish such as swordfish, sturgeon and dogfish are non-Kosher. Similarly, shellfish is non-Kosher.
  
-### Pork
+### Maiale
  
-Jews and Muslims do not eat pork.
+Ebrei e Musulmani non mangiano carne di maiale.
  
-### Alcohol
+### Alcool
  
-Muslims do not drink alcohol. 
+I Musulmani non bevono alcoolici. 
  
 ### Halal
  
