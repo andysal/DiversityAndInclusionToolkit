@@ -50,13 +50,13 @@ I dettami della dieta islamica ed ebrea sono molto dettagliati e denotano alcune
 
 Conseguentemente, molti cibi detengono sia la certificazione Kosher che quella Halal. 
  
-Kosher standards are not regarded as a replacement for Halal and the foods should be marked with both labels. Muslim authorities believe the terms are not interchangeable and this is potentially insulting.
+Gli standard Kosher standards non sono considerati equivalenti a quelli Halal ed il cibo dovrebbe quindi essere contrassegnato dai loghi specifici. Le autorità musulmane non considerano interscambiabili i termini e che ciò, anzi, sia un offensivo.
  
-Kosher standards are constantly changing and the London Beth Din release a monthly update. More details can be found here: http://www.kosher.org.uk/ 
+Gli standard Kosher sono in costante evoluzione ed aggiornamento. MAggiori dettagli possono essere riscontrati qui: http://www.kosher.org.uk/ 
  
-Salads without dairy or meat can regarded as parve or pareve. Parve means that neither meat nor milk products are included in the product, and that the cooking utensils have not been mixed with either food product. 
+Le insalate prive di latticini o carne possono essere considerate pareve: ciò significa che né carne nè letticini sono stati usati per la produzione e che gli strumenti di preparazione non sono stati contaminati da essi. 
  
-Fish that have fins and scales such as salmon, trout, herring and halibut are also kosher and parve: however, fish such as swordfish, sturgeon and dogfish are non-Kosher. Similarly, shellfish is non-Kosher.
+I pesci dotati ti pinne o scaglie, quali salmone, trota, aringa o halibut sono anch'essi kosher e pareve; invece, pesci quali pesce spada, storione e pesce cane non lo sono. Analogamente, anche i crostacei non lo sono.
  
 ### Maiale
  
